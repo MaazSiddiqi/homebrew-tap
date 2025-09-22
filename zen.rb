@@ -2,7 +2,7 @@ class Zen < Formula
   desc "A simple command launcher and alias manager"
   homepage "https://github.com/MaazSiddiqi/zen"
   url "https://github.com/MaazSiddiqi/zen/archive/v0.1.0.tar.gz"
-  sha256 "c8b01a2b5f72e9c71c6b4b72a4e5f42a4a5d8e04b1c9d1e2f3a0b5c6d7e8f9a0"
+  sha256 "820028d0ac0efaae59eb03e8c57868b547c2fd46d122e006367c6cfc42922d20"
   license "MIT"
 
   depends_on "rust" => :build
