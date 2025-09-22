@@ -1,0 +1,2 @@
+[commands]
+hello = '''echo 'Hello from zen\!''''
